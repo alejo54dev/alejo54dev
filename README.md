@@ -4,7 +4,7 @@
 
 </div>
 
-Analista programador de raza, con años de software de negocios a cuestas. Me gustan los desafíos raros: los que obligan a pensar, no a copiar.
+Analista programador de raza, con años de software de negocios a cuestas. Entusiasta de los desafíos — especialmente los que obligan a pensar.
 
 ## Quién soy
 
