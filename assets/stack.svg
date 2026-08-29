@@ -1,0 +1,46 @@
+<svg width="900" height="120" viewBox="0 0 900 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="898" height="118" rx="10" fill="#0d1117" stroke="#30363D"/>
+  <text x="24" y="32" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#8B949E">Stack</text>
+  <g font-family="Segoe UI, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600">
+    <g>
+      <rect x="24" y="46" width="64" height="30" rx="6" fill="#161b22" stroke="#30363D"/>
+      <circle cx="40" cy="61" r="4" fill="#777BB4"/>
+      <text x="52" y="66" fill="#777BB4">PHP</text>
+    </g>
+    <g>
+      <rect x="98" y="46" width="112" height="30" rx="6" fill="#161b22" stroke="#30363D"/>
+      <circle cx="114" cy="61" r="4" fill="#3178C6"/>
+      <text x="126" y="66" fill="#3178C6">TypeScript</text>
+    </g>
+    <g>
+      <rect x="220" y="46" width="112" height="30" rx="6" fill="#161b22" stroke="#30363D"/>
+      <circle cx="236" cy="61" r="4" fill="#F7DF1E"/>
+      <text x="248" y="66" fill="#F7DF1E">JavaScript</text>
+    </g>
+    <g>
+      <rect x="342" y="46" width="60" height="30" rx="6" fill="#161b22" stroke="#30363D"/>
+      <circle cx="358" cy="61" r="4" fill="#FBF0DF"/>
+      <text x="370" y="66" fill="#FBF0DF">Bun</text>
+    </g>
+    <g>
+      <rect x="412" y="46" width="66" height="30" rx="6" fill="#161b22" stroke="#30363D"/>
+      <circle cx="428" cy="61" r="4" fill="#E34F26"/>
+      <text x="440" y="66" fill="#E34F26">HTML</text>
+    </g>
+    <g>
+      <rect x="488" y="46" width="60" height="30" rx="6" fill="#161b22" stroke="#30363D"/>
+      <circle cx="504" cy="61" r="4" fill="#1572B6"/>
+      <text x="516" y="66" fill="#1572B6">CSS</text>
+    </g>
+    <g>
+      <rect x="558" y="46" width="86" height="30" rx="6" fill="#161b22" stroke="#30363D"/>
+      <circle cx="574" cy="61" r="4" fill="#0f80cc"/>
+      <text x="586" y="66" fill="#0f80cc">SQLite</text>
+    </g>
+    <g>
+      <rect x="654" y="46" width="56" height="30" rx="6" fill="#161b22" stroke="#30363D"/>
+      <circle cx="670" cy="61" r="4" fill="#F05032"/>
+      <text x="682" y="66" fill="#F05032">Git</text>
+    </g>
+  </g>
+</svg>
