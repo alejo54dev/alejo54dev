@@ -4,17 +4,30 @@
 
 </div>
 
-## Sobre mí
+# Hola 👋 Soy Alejandro Carraretto
 
-Me especializo en **software de negocios**. Me gustan los desafíos raros.
+IT & Software Developer y analista programador de raza. Me gustan los desafíos raros.
 
-Uso múltiples tecnologías — las pragmáticas, las clásicas y las ideales según el problema a resolver. Uso IA como todos, pero como asistente: el orquestador soy yo, nada al libre albedrío.
+Me especializo en **software de negocios**: sistemas a medida, pragmáticos, que resuelven problemas reales. Uso múltiples tecnologías — las pragmáticas, las clásicas y las ideales según el problema a resolver.
 
-Soy analista programador de raza, conozco la tecnología y, por ende, yo tengo el control — y no al revés.
+## 📫 Contacto
 
 - 🌐 Web: [alejo54.ar](https://alejo54.ar)
 
-## Stack
+## 🔥 Lo que hago
+
+- 🏗️ **Software de negocios** — soluciones a medida con foco en simplicidad y resultados.
+- ⚙️ **Full-stack web** — PHP, TypeScript/Bun, HTML/CSS y SQLite como motor de datos.
+- 🧩 **Desafíos raros** — los problemas difíciles son mi motivación; la tecnología, mi herramienta.
+- 📚 **Compartir conocimiento** — creo en construir, aprender y evolucionar.
+
+## 🤖 IA y desarrollo
+
+Uso IA como todos, pero **como asistente**: el orquestador soy yo, nada al libre albedrío.
+
+Soy analista programador de raza, conozco la tecnología y, por ende, **yo tengo el control — y no al revés**.
+
+## 🛠️ Stack
 
 <div align="center">
 
@@ -22,7 +35,7 @@ Soy analista programador de raza, conozco la tecnología y, por ende, yo tengo e
 
 </div>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -30,7 +43,7 @@ Soy analista programador de raza, conozco la tecnología y, por ende, yo tengo e
 
 </div>
 
-## Actividad
+## 📈 Actividad
 
 <div align="center">
 
@@ -38,8 +51,6 @@ Soy analista programador de raza, conozco la tecnología y, por ende, yo tengo e
 
 </div>
 
-<div align="center">
+---
 
-[alejo54.ar](https://alejo54.ar)
-
-</div>
+Gracias por pasar. ¿Ideas, preguntas o un desafío raro? [alejo54.ar](https://alejo54.ar)
