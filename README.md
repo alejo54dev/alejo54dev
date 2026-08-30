@@ -1,4 +1,4 @@
-# Alejandro Carraretto
+# Alejo
 
 Addicted to and passionate about technology. Consultant, programmer,
 resourceful by nature. Specialist in business solutions.
